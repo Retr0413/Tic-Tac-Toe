@@ -19,7 +19,7 @@ Go言語とFyneライブラリを使ったGUI三目並べアプリケーショ�
    （すでに`go.mod`がある場合はこの手順は不要です）
 
    ```bash
-   go mod init tictactoe
+   go mod init 
 
     追加パッケージ（Fyne）のインストール
     go get fyne.io/fyne/v2
